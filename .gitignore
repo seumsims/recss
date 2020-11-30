@@ -5,6 +5,11 @@
 # testing
 /coverage
 
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
 # production
 /build
 
